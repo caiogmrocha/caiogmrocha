@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Caio!</h1>
-<p align="center">Sou um estudante de uma escola técnica e estou estudando desenvolvimento Web 🌐 e Desktop 💻</p>
+<p align="center">Sou um estudante de uma escola técnica e estou estudando desenvolvimento Web 🌐, Mobile 📱 e Desktop 💻</p>
 
 - 📚 Estou estudando em uma escola técnica.
 - 👨‍💻 Estou estagiando em uma empresa.
