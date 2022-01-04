@@ -1,7 +1,6 @@
 <h1>Olá 👋, eu sou Caio!</h1>
 <p>Sou um programador entusiasta apaixonado por tecnologia e ciência 💻🚀🌍</p>
 
-<h3>Status GitHub</h3>
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiogmrocha&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogmrocha&layout=compact&langs_count=7&theme=dracula"/>
