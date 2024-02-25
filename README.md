@@ -9,6 +9,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="30" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" alt="laravel" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
