@@ -1,5 +1,5 @@
-<h1>Olá 👋, eu sou Caio!</h1>
-<p>Sou um programador entusiasta apaixonado por tecnologia e ciência 💻🚀🌍</p>
+<h1>Olá, eu sou Caio!</h1>
+<p>Sou um cientista da computação em formação interessado por tecnologia e ciência 💻🚀🌍</p>
 
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5"  width="40" height="40"/>
